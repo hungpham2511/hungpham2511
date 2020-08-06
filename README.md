@@ -4,6 +4,12 @@ You can find everything about me at
  <a href="https://hungpham2511.github.io/"><b>hungpham2511.github.io</b></a> 
 :robot:
 
+<p align="center">
+<a href="https://github.com/hungpham2511">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hungpham2511&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpham2511&theme=vue&layout=compact" />
+</a>
+</p>
 <!--
 **hungpham2511/hungpham2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
