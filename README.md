@@ -1,6 +1,12 @@
 ### Hi there! I'm Hung 👋
 
-You can find everything about me at
+I am a robotic engineer building robots at Eureka Robotics in Singapore. 
+
+In my day-to-day work, I am developing algorithms and software for optimal motion planning (allow robots to move efficiently autonomously) and force control (allow robots to *feel* with sensor and behave intelligently). Nowadays, I also enjoy developing with multi-view vision systems for high-precision tasks. 
+
+When it is necessary, I also build CI/CD pipeline for testing and deploying robot software.
+
+You can find more about me, i.e. publications, etc..., at
  <a href="https://hungpham2511.github.io/"><b>hungpham2511.github.io</b></a> 
 :robot:
 
