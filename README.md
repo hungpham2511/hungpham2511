@@ -2,7 +2,7 @@
 
 I am a robotic engineer building robots at Eureka Robotics in Singapore. 
 
-In my day-to-day work, I develop algorithms and software for optimal motion planning (allow robots to move efficiently autonomously) and force control (allow robots to *feel* with sensor and behave intelligently). Nowadays, I also enjoy developing with multi-view vision systems for high-precision tasks. 
+In my day-to-day work, I develop algorithms and software for optimal motion planning (allow robots to move efficiently autonomously) and force control (allow robots to *feel* with sensor and behave intelligently). Nowadays, I also enjoy developing multi-view vision systems for high-precision tasks. 
 
 When it is necessary, I also build CI/CD pipeline for testing and deploying robot software.
 
