@@ -13,5 +13,5 @@ You can find more about me, i.e. publications, etc..., at
 :robot:
 
 <a href="https://github.com/hungpham2511">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpham2511&theme=vue&layout=compact&hide=html,jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpham2511&theme=vue&hide=html,jupyter%20notebook"/>
 </a>
