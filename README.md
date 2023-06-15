@@ -9,7 +9,7 @@ When it is necessary, I also build CI/CD pipeline for testing and deploying robo
 From time to time, I support my :beer: buddies with [NeuroKit2](https://github.com/neuropsychology/NeuroKit) -- a Python toolbox for neurophysiological signal processing.
 
 You can find more about me, i.e. publications, etc..., at
- <a href="https://hungpham2511.github.io/"><b>hung-pham.com</b></a> 
+ <a href="https://hung-pham.com/"><b>hung-pham.com</b></a> 
 :robot:
 
 <a href="https://github.com/hungpham2511">
